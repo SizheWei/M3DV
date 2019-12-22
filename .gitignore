@@ -3,4 +3,6 @@ data
 muchdata.npy
 cifar_net.pth
 data_test/
+data_my/
+dataset/
 
