@@ -1,8 +1,3 @@
-data
 .ipynb_checkpoints/
-muchdata.npy
-cifar_net.pth
-data_test/
-data_my/
 dataset/
 
