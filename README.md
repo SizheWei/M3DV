@@ -1,5 +1,11 @@
 # SJTU - Medical 3D Voxel Classification
 
+:construction: This work is still under construction. In the coming future, I will finish some parts listed below:
+
+- [ ] Add the tutorial of how to use the code
+- [ ] Add image processing part
+- [ ] Add data loader into the simple network
+
 ## EE369 Machine Learning 2019 Autumn Class Coursework
 
 This is a coursework for EE369, and the work was completed through the Kaggle InClass competition. [Here](https://www.kaggle.com/c/sjtu-m3dv-medical-3d-voxel-classification) is the link.
